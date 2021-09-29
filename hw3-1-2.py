@@ -9,4 +9,3 @@ if total >= 21:
     print("You are bust.")
 else:
     print("You are safe.")
-    
